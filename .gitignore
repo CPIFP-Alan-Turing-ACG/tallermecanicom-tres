@@ -1,0 +1,17 @@
+#Compiled Source#
+######################
+*.com
+*.class
+*.dil
+*.exe
+*.o
+*.so
+
+
+#Packages#
+###########################
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
