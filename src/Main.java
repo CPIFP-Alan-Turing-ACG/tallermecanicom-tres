@@ -4,10 +4,12 @@ public class Main {
         System.out.println("-----------------------------------------");
 
         // TODO: Alumno A debe inicializar aquí el gestor de vehículos
-        
+
         // TODO: Alumno C debe inicializar aquí el inventario
 
         // TODO: Alumno B debe registrar una reparación de prueba
+        GestorReparaciones reparaciones = new GestorReparaciones();
+        reparaciones.procesarReparacion();
         
         System.out.println("Sistema detenido.");
     }
