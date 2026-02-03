@@ -1,36 +1,21 @@
-<<<<<<< HEAD
 # Compiled source #
 ###################
 *.com
 *.class
 *.dll
-=======
-#Compiled Source#
-######################
-*.com
-*.class
-*.dil
->>>>>>> 66ef7c3106cbfea58da84de48a195612b589ea07
 *.exe
-*.o
+*.o 
 *.so
 
-<<<<<<< HEAD
 # Packages #
 ############
 # it's better to unpack these files and commit the raw source
 # git has its own built in compression methods
-=======
-
-#Packages#
-###########################
->>>>>>> 66ef7c3106cbfea58da84de48a195612b589ea07
 *.7z
 *.dmg
 *.gz
 *.iso
 *.jar
-<<<<<<< HEAD
 *.rar
 *.tar
 *.zip
@@ -50,5 +35,3 @@
 .Trashes
 ehthumbs.db
 Thumbs.db
-=======
->>>>>>> 66ef7c3106cbfea58da84de48a195612b589ea07
